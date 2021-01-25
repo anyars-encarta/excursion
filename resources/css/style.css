@@ -1,1 +1,77 @@
+.download-link {
+    color:rgb(127, 255, 212) !important;
+    display: inline;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 300;
+    margin-block-end: 34.86;
+    margin-block-start: 34.86;
+    text-decoration-color: rgb(127, 255, 212);
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: auto;
+    text-align: right
+}
+
+body {
+    background-color: black;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+ video {
+     object-fit: contain;
+ }
+ 
+h1 {
+    color: white;
+    display: block;
+    text-align: center;
+    margin-block-start: 33.5px;
+    margin-block-end: 33.5px;
+    font-size: 50px;
+    font-weight: 400;
+    height: 180px;
+}
+
+
+h2 {
+    color: white;
+    display: block;
+    font-size: 42px;
+    font-weight: 300;
+    margin-block-end: 34.86px;
+    margin-block-start: 34.86px;
+}
+
+.places {
+    color: rgb(128, 128, 128);
+    display: block;
+    font-size: 21px;
+    margin-block-end: 21px;
+    margin-block-start: 21px;
+}
+
+.icon {
+    color: rgb(128, 128, 128);
+    font-size: 21px;
+
+}
+.coming {
+    color: rgb(255, 255, 255);
+    display: block;
+    font-size: 42px;
+    font-weight: 300;
+    margin-block-end: 34.86;
+    margin-block-start: 34.86;
+
+}
+
+.copyright {
+    color: rgb(128, 128, 128);
+    display: block;
+    font-size: 21px;
+    margin-block-end: 21px;
+    margin-block-start: 21px;
+    text-align: right;
+}
 
